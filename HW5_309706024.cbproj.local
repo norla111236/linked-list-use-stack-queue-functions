@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/24 20:44:28.000.798,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/24 20:44:29.000.726,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/24 20:49:42.000.735,C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW5_錢玟卉_309706024\HW5_錢玟卉_309706024.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/11/24 20:49:42.000.735,C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW5_錢玟卉_309706024\HW5_錢玟卉_309706024.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/24 20:49:42.000.735,C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW5_錢玟卉_309706024\HW5_錢玟卉_309706024.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/24 20:49:47.000.429,C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW5_錢玟卉_309706024\HW5_錢玟卉.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/24 20:49:53.000.496,C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW5_錢玟卉_309706024\HW5_309706024.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
